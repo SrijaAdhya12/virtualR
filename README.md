@@ -1,4 +1,4 @@
-    updated on: 23st July 2024, Sunday
+    updated on: 24th July 2024, Sunday
 
 <div align=center>
     <a href="https://github.com/SrijaAdhya12/virtualR">
@@ -9,8 +9,6 @@
         <img alt="GitHub forks" src="https://img.shields.io/github/forks/SrijaAdhya12/virtualR">
     </a>
 </div>
-
-# ![VirtualR](https://github.com/user-attachments/assets/4116093c-5207-49cd-9fd2-3fa645ab01b2)
 
 
 ![line]
@@ -59,7 +57,7 @@
 
 ## Preview
 
-![Macbook-Air-expense-app-amber vercel app](https://github.com/user-attachments/assets/74f30189-9d54-40c8-a87d-f35f7f0cea6f)
+# ![VirtualR](https://github.com/user-attachments/assets/4116093c-5207-49cd-9fd2-3fa645ab01b2)
 
 
 ![line]
