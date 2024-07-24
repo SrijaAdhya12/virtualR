@@ -83,5 +83,6 @@
 
 [markdown badges]: https://github.com/Ileriayo/markdown-badges
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
+[License]: https:/SrijaAdhya12/virtualR/github.com/blob/main/LICENSE
 
 <!-- 21/07/24 -->
