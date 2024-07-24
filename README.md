@@ -2,7 +2,8 @@
 
 <div align=center>
     <a href="https://github.com/SrijaAdhya12/virtualR">
-        <img width="200" src="https://img.icons8.com/?size=100&id=jWJyDbaGBwcd&format=png&color=228BE6">
+        <img width="200" src="![image](https://github.com/user-attachments/assets/28cf7cb1-c5a8-4047-ab85-e05acd3dfbe6)
+">
     </a>
     <p style="font-family: roboto, calibri; font-size:12pt; font-style:italic"> A Virtual Reality Tools for Developers </p>
     <a src="https://github.com/SrijaAdhya12/virtualR/forks">
