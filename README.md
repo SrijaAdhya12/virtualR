@@ -37,7 +37,7 @@
 ## Developement
 
 ```sh
-> npm install
+> npm i
 > npm run dev
 ```
 
