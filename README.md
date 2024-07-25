@@ -2,14 +2,14 @@
 
 <div align=center>
     <a href="https://github.com/SrijaAdhya12/virtualR">
-        <img width="200" src="https://img.icons8.com/?size=100&id=BDsNbX8bD76-&format=png&color=000000">
+        <img width="200" src="https://cdn-icons-png.flaticon.com/512/1377/1377892.png" alt="Virtual Reality">
     </a>
     <p style="font-family: roboto, calibri; font-size:12pt; font-style:italic"> A Virtual Reality Tools for Developers </p>
     <a src="https://github.com/SrijaAdhya12/virtualR/forks">
         <img alt="GitHub forks" src="https://img.shields.io/github/forks/SrijaAdhya12/virtualR">
     </a>
 </div>
-
+# [VirtualR](https://virtualr-vr.netlify.app/)
 
 ![line]
 
