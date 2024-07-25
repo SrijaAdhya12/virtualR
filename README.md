@@ -70,6 +70,16 @@
 
 ![line]
 
+## License
+
+-   see [LICENSE]
+
+**Srija, 2024**
+
+[license]: https://github.com/SrijaAdhya12/virtualR/blob/main/LICENSE
+
+![line]
+
 ## Thank you, everyone 💚
 
 [markdown badges]: https://github.com/Ileriayo/markdown-badges
