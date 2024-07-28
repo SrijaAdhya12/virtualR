@@ -10,7 +10,7 @@
     </a>
 </div>
 
-## [VirtualR](https://virtualr-vr.netlify.app/)
+# [VirtualR](https://virtualr-vr.netlify.app/)
 
 ![line]
 
